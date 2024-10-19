@@ -14,9 +14,8 @@ Course notes in IC class
 9. git init # to git
 10. git remote add origin +"ssh"
 11. git remote -v
-
- 
-
+12. git branch
+13. git branch -b +"branch name"
  ##
 
  branch change
